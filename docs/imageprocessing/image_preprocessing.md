@@ -90,7 +90,7 @@ BF[I]_p = \frac{1}{W_p} \sum_{q \in S} G_{\sigma_s}(\|\mathbf{p} - \mathbf{q}\|)
 
 
 
-## Comparison of Filters (LoG, Canny, Sobel)
+## Comparison of Filters (LoG, Canny, Sobel and Bilateral)
 
 - **Sobel**: Used for fast and simple edge detection. It is sensitive to intensity changes along the x and y directions but doesn't handle noise well.
 - **LoG**: More robust than Sobel, the Laplacian of Gaussian combines smoothing and edge detection. It's effective when the image contains noise.
