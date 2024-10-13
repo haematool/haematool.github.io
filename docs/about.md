@@ -1,3 +1,9 @@
+---
+tags:
+  - HTML5
+  - JavaScript
+  - CSS
+---
 # About Me
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
@@ -20,7 +26,7 @@ Additionally, I am an intern at the Inserm unit **Genomics and Immunology of Mye
 
 My research focuses on the **recognition of blood cells** through **deep learning** approaches, collaborating with computer science experts. This research aims to enhance laboratory practices, especially in the detection of **sickle-shaped red blood cells** in blood smears.
 
-Beyond my medical work, I have also established a statistical analysis platform hosted on a **DigitalOcean server**, where I assist colleagues in analyzing medical data. Feel free to explore my projects on this website **Statify**.
+Beyond my medical work, I have also established a statistical analysis platform hosted on a **DigitalOcean server**, where I assist colleagues in analyzing medical data. Feel free to explore my projects on this website.
 
 ---
 

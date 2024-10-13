@@ -6,6 +6,10 @@ theme:
   icon:
     logo: material/library
     font: true
+    tag:
+      html: fontawesome/brands/html5
+      js: fontawesome/brands/js
+      css:  fontawesome/brands/css3
   
   palette: 
     scheme: slate
@@ -56,6 +60,10 @@ extra:
       link: https://discord.gg/nuScQTzb
     - icon: fontawesome/solid/envelope
       link: mailto:emmanuelsleiman@gmail.com 
+  tags:
+    HTML5: html
+    JavaScript: js
+    CSS: css
 
 markdown_extensions:
   - pymdownx.details:
