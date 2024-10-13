@@ -7,18 +7,18 @@
 
 ## I. Access to R Server
 
-You can access the R Studio server using the following link:
+!!! success "**You can access the server with the following link :**"
 
-<div style="text-align: center; margin: 20px 0;">
-  <a href="http://134.209.84.93:8787/" target="_blank" style="padding: 10px 20px; background-color: #607D8B; color: white; text-decoration: none; border-radius: 5px; font-family: Arial, sans-serif; font-size: 16px;">
-    <i class="fas fa-server"></i> Access R Studio Server
-  </a>
-</div>
+    <div style="text-align: center; margin: 20px 0;">
+      <a href="http://134.209.84.93:8787/" target="_blank" style="padding: 10px 20px; background-color: #607D8B; color: white; text-decoration: none; border-radius: 5px; font-family: Arial, sans-serif; font-size: 16px;">
+        <i class="fas fa-server"></i> Access R Studio Server
+      </a>
+    </div>
 
-<div style="text-align: center; margin-bottom: 20px;">
-  <span id="status-indicator" style="display: inline-block; width: 10px; height: 10px; background-color: #4CAF50; border-radius: 50%; margin-right: 8px;"></span>
-  <span id="status-text" style="font-family: Arial, sans-serif; color: #4CAF50;">Server is online</span>
-</div>
+    <div style="text-align: center; margin-bottom: 20px;">
+      <span id="status-indicator" style="display: inline-block; width: 10px; height: 10px; background-color: #4CAF50; border-radius: 50%; margin-right: 8px;"></span>
+      <span id="status-text" style="font-family: Arial, sans-serif; color: #4CAF50;">Server is online</span>
+    </div>
 
 ---
 

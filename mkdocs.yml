@@ -40,7 +40,9 @@ nav:
   - R Studio Server: rstudioserver/rstudio.md
   - Machine Learning: machinelearning/mrdpraidict.md
   - Deep Learning: deeplearning/sicklecellvision.md
-  - Image Processing: imageprocessing/imgprocess.md
+  - Image Processing:
+      - Overview: imageprocessing/overview.md
+      - Preprocessing: imageprocessing/image_preprocessing.md  
   - Blog:
     - blog/index.md
 repo_url: https://github.com/haematool/haematool
@@ -56,6 +58,7 @@ extra:
       link: mailto:emmanuelsleiman@gmail.com 
 
 markdown_extensions:
+  - admonition:
   - pymdownx.arithmatex:
       generic: true 
   - attr_list
