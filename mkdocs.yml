@@ -58,6 +58,7 @@ extra:
       link: mailto:emmanuelsleiman@gmail.com 
 
 markdown_extensions:
+  - pymdownx.details:
   - admonition:
   - pymdownx.arithmatex:
       generic: true 

@@ -76,8 +76,23 @@ G = \sqrt{G_x^2 + G_y^2}
 
 The Sobel filter is particularly useful for detecting edges in horizontal and vertical directions but may be less sensitive compared to more advanced methods like the **Canny filter**.
 
+## Bilateral Filter
+
+The bilateral filter is a non-linear filter that smooths images while preserving edges. Unlike other filters like Gaussian blur, which only consider spatial distance when smoothing, the bilateral filter takes into account both the spatial distance and the intensity difference between pixels. This dual consideration makes it highly effective in preserving edges while reducing noise.
+
+This filter worksby applying a spatial Gaussian filter $G_{\sigma_s}$ to measure the proximity between pixels and a range Gaussian filter $G_{\sigma_r}$ to account for the intensity difference. Pixels that are close spatially and have similar intensity values will be smoothed together, while pixels with significant intensity differences, such as those at edges, are preserved.
+
+\begin{equation}
+BF[I]_p = \frac{1}{W_p} \sum_{q \in S} G_{\sigma_s}(\|\mathbf{p} - \mathbf{q}\|) G_{\sigma_r}(I_p - I_q) I_q
+\end{equation}
+    
+    
+
+
+
 ## Comparison of Filters (LoG, Canny, Sobel)
 
 - **Sobel**: Used for fast and simple edge detection. It is sensitive to intensity changes along the x and y directions but doesn't handle noise well.
 - **LoG**: More robust than Sobel, the Laplacian of Gaussian combines smoothing and edge detection. It's effective when the image contains noise.
 - **Canny**: The Canny filter is one of the most effective edge detection methods, combining smoothing, gradient calculation, non-maximum suppression, and double thresholding. It's ideal for complex images that require precise edge detection.
+- **Bilateral**: Unique in its ability to smooth images while preserving edges, the bilateral filter is ideal for reducing noise without sacrificing important image details such as in medical imaging, photography, and image segmentation tasks.
