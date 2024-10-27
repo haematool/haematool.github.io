@@ -6,6 +6,7 @@ theme:
   custom_dir: overrides
   icon:
     logo: airballoon
+    favicon: /assets/images/favicon.ico
     font: true
     tag:
       html: fontawesome/brands/html5
