@@ -2,21 +2,20 @@ site_name: Emmanuel Sleiman
 site_url: https://github.com/haematool/haematool
 theme:
   name: material
-  language : en
+  language: en
+  custom_dir: overrides
   icon:
-    logo: material/library
+    logo: airballoon
     font: true
     tag:
       html: fontawesome/brands/html5
       js: fontawesome/brands/js
-      css:  fontawesome/brands/css3
-  
-  palette: 
-    scheme: slate
-    primary : blue grey
-    accent : amber
+      css: fontawesome/brands/css3
 
-  
+  palette:
+    scheme: slate
+    primary: blue-grey
+    accent: amber
 
   features:
     - navigation.instant
@@ -32,11 +31,11 @@ theme:
     - search.suggest
     - search.share
     - content.footnote.tooltips
-  
+
 plugins:
-    - search
-    - tags
-    - blog
+  - search
+  - tags
+  - blog
 
 nav:
   - Home: index.md
@@ -46,9 +45,10 @@ nav:
   - Deep Learning: deeplearning/sicklecellvision.md
   - Image Processing:
       - Overview: imageprocessing/overview.md
-      - Preprocessing: imageprocessing/image_preprocessing.md  
+      - Preprocessing: imageprocessing/image_preprocessing.md
   - Blog:
-    - blog/index.md
+      - blog/index.md
+
 repo_url: https://github.com/haematool/haematool
 repo_name: Haematool
 
@@ -59,17 +59,21 @@ extra:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/nuScQTzb
     - icon: fontawesome/solid/envelope
-      link: mailto:emmanuelsleiman@gmail.com 
+      link: mailto:emmanuelsleiman@gmail.com
   tags:
     HTML5: html
     JavaScript: js
     CSS: css
 
 markdown_extensions:
-  - pymdownx.details:
-  - admonition:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.details
+  - admonition
   - pymdownx.arithmatex:
-      generic: true 
+      generic: true
   - attr_list
   - md_in_html
   - footnotes
@@ -78,4 +82,4 @@ extra_javascript:
   - javascripts/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
-copyright : Copyrights - Emmanuel Sleiman - 2024 
+copyright: Copyrights - Emmanuel Sleiman - 2024
