@@ -67,4 +67,4 @@ hide:
 \end{equation}
 
 
-[^1]: The major interest of this formula lies in its ability to transform a time-domain signal into its frequency-domain representation, allowing for the analysis and understanding of the signal's frequency components.
+[^1]: This formula is crucial for its ability to transform a time-domain signal into its frequency-domain representation, allowing for the analysis and understanding of the signal's frequency components.
