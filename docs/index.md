@@ -60,11 +60,11 @@ hide:
 ### <h3 style="text-align: center;"><i class="fas fa-calculator"></i> Formula of the Week</h3>
 <p style="text-align: center; font-size: 18px;"></p>
 
-**The Cauchy-Schwarz inequality[^1] :**
+**The Fourier Transformation[^1] :**
 
 \begin{equation}
-  \left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+  \mathcal{F}\{f(t)\} = F(\omega) = \int_{-\infty}^{\infty} f(t) e^{-i \omega t} \, dt
 \end{equation}
 
 
-[^1]: This inequality is crucial in proving many other mathematical results and is widely used in fields like functional analysis, probability theory, and quantum mechanics.
+[^1]: The major interest of this formula lies in its ability to transform a time-domain signal into its frequency-domain representation, allowing for the analysis and understanding of the signal's frequency components.
