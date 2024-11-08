@@ -34,8 +34,6 @@ Beyond my medical work, I have also established a statistical analysis platform 
 
 - **Medical Doctor in Training** specializing in **hematology**.
 - **Researcher** at **Inserm**, working on **Genomics and Immunology of Myeloma**.
-- Expertise in **deep learning** applications for **blood cell recognition**.
-- Hosting **R Studio server** for medical data analysis, accessible [here](http://134.209.84.93:8787).
 
 ---
 

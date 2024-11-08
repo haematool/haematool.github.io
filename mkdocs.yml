@@ -36,12 +36,13 @@ plugins:
   - search
   - tags
   - blog
+  - mkquartodocs
 
 nav:
   - Home: index.md
   - About me: about.md
   - R Studio Server: rstudioserver/rstudio.md
-  - Machine Learning: machinelearning/mrdpraidict.md
+  - Machine Learning: machinelearning/
   - Deep Learning: deeplearning/sicklecellvision.md
   - Image Processing:
       - Overview: imageprocessing/overview.md
