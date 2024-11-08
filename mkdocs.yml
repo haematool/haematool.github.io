@@ -36,7 +36,6 @@ plugins:
   - search
   - tags
   - blog
-  - mkquartodocs
 
 nav:
   - Home: index.md
