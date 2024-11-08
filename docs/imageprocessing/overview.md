@@ -1,4 +1,4 @@
-# Nanoparticle Segmentation in Transmission Electron Microscopy (TEM) Images
+# Nanoparticle Segmentation in Transmission Electron Microscopy (TEM) Images - Running
 
 !!! abstract
 
