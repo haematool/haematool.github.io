@@ -33,7 +33,7 @@ Beyond my medical work, I have also established a statistical analysis platform 
 ## <i class="fas fa-briefcase"></i> Professional Experience
 
 - **Medical Doctor in Training** specializing in **hematology**.
-- **Researcher** at **Inserm**, working on **Genomics and Immunology of Myeloma**.
+- **Researcher** at **Inserm**, working on **Genomics and Immunology of Myeloma !**.
 
 ---
 
