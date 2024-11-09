@@ -10,7 +10,7 @@
 ??? success "**You can access R Studio here**"
 
     <div style="text-align: center; margin: 20px 0;">
-      <a href="http://134.209.84.93:8787/" target="_blank" style="padding: 10px 20px; background-color: #607D8B; color: white; text-decoration: none; border-radius: 5px; font-family: Arial, sans-serif; font-size: 16px;">
+      <a href="http://es-rstudio.francecentral.cloudapp.azure.com/rstudio/" target="_blank" style="padding: 10px 20px; background-color: #607D8B; color: white; text-decoration: none; border-radius: 5px; font-family: Arial, sans-serif; font-size: 16px;">
         <i class="fas fa-server"></i> Access R Studio Server
       </a>
     </div>
