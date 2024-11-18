@@ -5,7 +5,7 @@ theme:
   language: en
   custom_dir: overrides
   icon:
-    logo: airballoon
+    logo: function
     font: true
     tag:
       html: fontawesome/brands/html5
