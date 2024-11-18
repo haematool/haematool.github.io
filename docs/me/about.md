@@ -1,15 +1,9 @@
----
-tags:
-  - HTML5
-  - JavaScript
-  - CSS
----
 # About Me
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 <div class="profile-info">
-    <img src="https://github.com/haematool/haematool.github.io/blob/d3c08fa6548d6ec436ef27da945e7fc6b9559c8a/docs/me/me.jpeg" alt="Profile picture of Emmanuel Sleiman">
+    <img src="https://haematool.github.io/me/me.jpeg" alt="Profile picture of Emmanuel Sleiman">
     <div>
         <h2><i class="fas fa-user-md"></i> Emmanuel Sleiman</h2>
         <p><i class="fas fa-graduation-cap"></i> Medical Doctor in Training | Health & AI MSc Student</p>
@@ -19,7 +13,7 @@ tags:
 
 ---
 
-**## <i class="fas fa-info-circle"></i> About Me**
+## <i class="fas fa-info-circle"></i> About Me
 
 I am currently pursuing a **Master 2 in Health and Artificial Intelligence** with a specialization in **hematology**.  
 Additionally, I am an intern at the Inserm unit **Genomics and Immunology of Myeloma**, working at the **Toulouse Cancer Research Center**.
@@ -34,14 +28,6 @@ Beyond my medical work, I have also established a statistical analysis platform 
 
 - **Medical Doctor in Training** specializing in **hematology**.
 - **Researcher** at **Inserm**, working on **Genomics and Immunology of Myeloma !**.
-
----
-
-## <i class="fas fa-cogs"></i> Skills
-
-- **Medical Expertise**: Hematology, Bone Marrow Transplantation.
-- **Technologies**: Python, R, MkDocs.
-- **Statistical Analysis**: Medical Data Analytics, Statistical Modeling.
 
 ---
 
