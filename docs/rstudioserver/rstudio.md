@@ -4,21 +4,28 @@
 
 **The server is set up to assist with statistical analyses on medical data.**
 
-
 ## I. Access to R Server
 
-??? success "**You can access R Studio here**"
+??? failure "**You can access R Studio here**"
 
     <div style="text-align: center; margin: 20px 0;">
       <a href="http://es-rstudio.francecentral.cloudapp.azure.com/rstudio/" target="_blank" style="padding: 10px 20px; background-color: #607D8B; color: white; text-decoration: none; border-radius: 5px; font-family: Arial, sans-serif; font-size: 16px;">
         <i class="fas fa-server"></i> Access R Studio Server
       </a>
     </div>
-
+    
     <div style="text-align: center; margin-bottom: 20px;">
-      <span id="status-indicator" style="display: inline-block; width: 10px; height: 10px; background-color: #4CAF50; border-radius: 50%; margin-right: 8px;"></span>
-      <span id="status-text" style="font-family: Arial, sans-serif; color: #4CAF50;">Server is online</span>
+      <span id="status-indicator" style="display: inline-block; width: 10px; height: 10px; background-color: #f44336; border-radius: 50%; margin-right: 8px;"></span>
+      <span id="status-text" style="font-family: Arial, sans-serif; color: #f44336;">Server is offline</span>
     </div>
+    
+    <script>
+      // Script forces the status to always display "Server is offline"
+      document.getElementById('status-indicator').style.backgroundColor = '#f44336';
+      document.getElementById('status-text').innerText = 'Server is offline';
+      document.getElementById('status-text').style.color = '#f44336';
+    </script>
+
 
 ---
 

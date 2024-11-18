@@ -39,7 +39,9 @@ plugins:
 
 nav:
   - Home: index.md
-  - About me: about.md
+  - About me:
+      - Bio: about.md
+      - Resumé: resume.md
   - R Studio Server: rstudioserver/rstudio.md
   - Machine Learning: machinelearning/
   - Deep Learning: deeplearning/sicklecellvision.md
