@@ -41,9 +41,8 @@ nav:
   - Home: index.md
   - About me:
       - Bio: me/about.md
-      - Resumé: me/resume.md
+      - Resumé: me/cv.md
   - R Studio Server: rstudioserver/rstudio.md
-  - Machine Learning: machinelearning/
   - Deep Learning: deeplearning/sicklecellvision.md
   - Image Processing:
       - Overview: imageprocessing/overview.md
