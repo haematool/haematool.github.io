@@ -19,7 +19,7 @@ tags:
 
 ---
 
-## <i class="fas fa-info-circle"></i> About Me
+**## <i class="fas fa-info-circle"></i> About Me**
 
 I am currently pursuing a **Master 2 in Health and Artificial Intelligence** with a specialization in **hematology**.  
 Additionally, I am an intern at the Inserm unit **Genomics and Immunology of Myeloma**, working at the **Toulouse Cancer Research Center**.
