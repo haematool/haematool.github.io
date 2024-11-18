@@ -3,7 +3,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 <div class="profile-info">
-    <img src="../assets/images/me.jpeg" alt="Profile picture of Emmanuel Sleiman">
+    <img src="../me.jpeg" alt="Profile picture of Emmanuel Sleiman">
     <div>
         <h2><i class="fas fa-user-md"></i> Emmanuel Sleiman</h2>
         <p><i class="fas fa-graduation-cap"></i> Medical Doctor in Training | Health & AI MSc Student</p>
