@@ -9,7 +9,7 @@ tags:
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 <div class="profile-info">
-    <img src="./me/me.jpeg" alt="Profile picture of Emmanuel Sleiman">
+    <img src="https://github.com/haematool/haematool.github.io/blob/d3c08fa6548d6ec436ef27da945e7fc6b9559c8a/docs/me/me.jpeg" alt="Profile picture of Emmanuel Sleiman">
     <div>
         <h2><i class="fas fa-user-md"></i> Emmanuel Sleiman</h2>
         <p><i class="fas fa-graduation-cap"></i> Medical Doctor in Training | Health & AI MSc Student</p>
