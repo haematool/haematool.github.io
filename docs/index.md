@@ -13,8 +13,21 @@ hide:
 ### <h3 style="text-align: center;"><i class="fas fa-briefcase"></i> Current Projects</h3>
 <ul style="text-align: center; list-style-type: none;">
   <li>Deep Learning for Blood Cell Recognition</li>
+  <li>Anisotropic 3D Liver and HCCs semgnation</li>
   <li>Medical Data Analysis Platform: <a href="http://134.209.84.93:8787">R Studio Server</a></li>
 </ul>
+
+---
+
+### <h3 style="text-align: center;"><i class="fas fa-link"></i> My Medicine Thesis</h3>
+<p style="text-align: center; font-size: 18px;">
+  Prognostic impact of minimal residual disease (MRD) predicted by machine learning for patients with myeloma eligible for autologous transplantation
+</p>
+<p style="text-align: center;">
+  <a href="https://theses.hal.science/tel-04742367v1" target="_blank" rel="noreferrer" style="font-size: 20px; color: #007BFF;">
+    <i class="fas fa-file-pdf"></i> Access My Thesis
+  </a>
+</p>
 
 ---
 
