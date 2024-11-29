@@ -6,7 +6,7 @@
 
 ## I. Access to R Server
 
-??? failure "**You can access R Studio here**"
+??? failure "**You can't access R Studio here**"
 
     <div style="text-align: center; margin: 20px 0;">
       <a href="http://es-rstudio.francecentral.cloudapp.azure.com/rstudio/" target="_blank" style="padding: 10px 20px; background-color: #607D8B; color: white; text-decoration: none; border-radius: 5px; font-family: Arial, sans-serif; font-size: 16px;">

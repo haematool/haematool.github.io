@@ -18,7 +18,7 @@
 I am currently pursuing a **Master 2 in Health and Artificial Intelligence** with a specialization in **hematology**.  
 Additionally, I am an intern at the Inserm unit **Genomics and Immunology of Myeloma**, working at the **Toulouse Cancer Research Center**.
 
-My research focuses on the **recognition of blood cells** through **deep learning** approaches, collaborating with computer science experts. This research aims to enhance laboratory practices, especially in the detection of **sickle-shaped red blood cells** in blood smears.
+My research focuses on **machine learning** and  **deep learning** approaches, collaborating with computer science experts. This research aims to enhance laboratory practices either for routine or specialized genomic analyses.
 
 Beyond my medical work, I have also established a statistical analysis platform hosted on a **DigitalOcean server**, where I assist colleagues in analyzing medical data. Feel free to explore my projects on this website.
 
