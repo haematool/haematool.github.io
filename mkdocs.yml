@@ -49,7 +49,7 @@ nav:
       - Preprocessing: imageprocessing/image_preprocessing.md
   - Math Toolbox :
       - Opérateurs différentiels : toolbox/operateurs_differentiels.md
-      - Transformation de Fourier : fourier.md
+      - Transformation de Fourier : toolbox/fourier.md
   - Blog:
       - blog/index.md
 
