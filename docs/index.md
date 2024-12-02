@@ -11,11 +11,13 @@ hide:
 ---
 
 ### <h3 style="text-align: center;"><i class="fas fa-briefcase"></i> Current Projects</h3>
-<ul style="text-align: center; list-style-type: none;">
-  <li>Deep Learning for Blood Cell Recognition</li>
-  <li>Anisotropic 3D Liver and HCCs semgnation</li>
-  <li>Medical Data Analysis Platform: <a href="http://134.209.84.93:8787">R Studio Server</a></li>
-</ul>
+<div class="grid cards" markdown>
+
+- <i class="fas fa-microscope"></i> **Deep Learning** for Blood Cell Recognition
+- <i class="fas fa-cubes"></i> **Anisotropic 3D Segmentation** of Liver and HCCs
+- <i class="fab fa-r-project"></i> **Medical Data Analysis Platform**
+
+</div>
 
 ---
 
@@ -73,11 +75,10 @@ hide:
 ### <h3 style="text-align: center;"><i class="fas fa-calculator"></i> Formula of the Week</h3>
 <p style="text-align: center; font-size: 18px;"></p>
 
-**The Fourier Transformation[^1] :**
+**The Legendre Polynomial[^1] :**
 
 \begin{equation}
-  \mathcal{F}\{f(t)\} = F(\omega) = \int_{-\infty}^{\infty} f(t) e^{-i \omega t} \, dt
+  P_n(x) = \frac{1}{2^n n!} \frac{d^n}{dx^n} \left( x^2 - 1 \right)^n
 \end{equation}
 
-
-[^1]: This formula is crucial for its ability to transform a time-domain signal into its frequency-domain representation, allowing for the analysis and understanding of the signal's frequency components.
+[^1]: The Legendre Polynomials \( P_n(x) \) are solutions to Legendre's differential equation and are used in physics and engineering, especially in problems involving spherical symmetry, such as gravitational and electric potentials.
