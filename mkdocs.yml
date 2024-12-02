@@ -47,6 +47,8 @@ nav:
   - Image Processing:
       - Overview: imageprocessing/overview.md
       - Preprocessing: imageprocessing/image_preprocessing.md
+  - Math Toolbox :
+      - Opérateurs différentiels : toolbox/operateurs_differentiels.md
   - Blog:
       - blog/index.md
 
