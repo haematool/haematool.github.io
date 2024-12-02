@@ -32,6 +32,7 @@ Les différentes expressions du gradient dans les systèmes de coordonnées util
 | Sphériques       | \(f(r,\theta,\varphi,t)\)| \(\dfrac{\partial f}{\partial r}\overrightarrow{u_{r}} + \dfrac{\partial f}{r\partial \theta}\overrightarrow{u_{\theta}} + \dfrac{\partial f}{r\sin\theta\partial \varphi}\overrightarrow{u_{\varphi}}\) |
 
 
+
 ### Propriétés
 
 L'opérateur gradient est un opérateur linéaire et vérifie donc :
