@@ -23,7 +23,7 @@ repository               : "haematool/haematool.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/profile.png"
+  avatar           : "profile.png"
   name             : "Emmanuel Sleiman"
   pronouns         : # example: "she/her"  
   bio              : "Resident - MD Hematology | Health & AI MSc | Researcher trainee in Myeloma Genomics & Immunology at Inserm, Toulouse Cancer Research Center"
