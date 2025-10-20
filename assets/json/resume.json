@@ -27,44 +27,47 @@
       "name": "Saint-Louis University Hospital",
       "position": "Senior clinical fellow",
       "url": "https://aphp.fr",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "startDate": "2025-11-03",
+      "endDate": "present",
       "summary": "Last year of residency",
       "highlights": ["Myeloid and lymphoid neoplasms"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Association des internes d'hématologir",
+      "location": "Paris, France",
+      "position": "Secretary, webmaster",
+      "url": "https://aihemato.com",
+      "startDate": "2025-10-01",
+      "endDate": "present"
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of Burgundy Europe, Dijon",
+      "location": "Dijon, France",
+      "url": "https://www.ube.fr/",
+      "area": "Hematology",
+      "studyType": "MD",
+      "endDate": "2024-06-28"
+    }
+    {
+      "institution": "University of Burgundy Europe, Dijon",
+      "location": "Dijon, France",
+      "url": "https://www.ube.fr/",
+      "area": "Computer Science",
+      "studyType": "MSc in Health and Artificial Intelligence",
+      "endDate": "2025-09-02"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "French Cancer Society Thesis Award",
+      "date": "2025-06-01",
+      "awarder": "French Cancer Society (SFC)",
+      "url": "https://sfc.asso.fr/wp-content/uploads/2025/09/AERIO-Prix-de-these-IFODs-2025-Publication.pdf",
+      "summary": "for the work entitled: Prognostic impact of minimal residual disease (MRD) predicted by machine learning for patients with myeloma eligible for autologous transplantation"
     }
   ],
   "certificates": [
@@ -151,7 +154,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "French",
       "fluency": "Native speaker",
       "icon": ""
     },
