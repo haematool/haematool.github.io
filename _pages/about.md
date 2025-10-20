@@ -27,13 +27,17 @@ latest_posts:
   limit: 3
 ---
 
-Resident in Hematology working at the intersection of medicine and algorithms for health data.  
+Resident in Hematology working at the intersection of medicine and algorithms for health data.
+
+Co-founder of [Revue de l'Intelligence Artificielle en Santé](https://revue-ia-sante.fr/index.php/accueil).
+
 On this website, you’ll find my academic contributions, blog posts on science and computing, talks, teaching materials, and more...
 
-<span style='font-family: monospace;'>
-emmanuel[dot]sleiman[at]revue-ia-sante[dot]fr<br>
-PGP Key<br>
-Key ID: 0x17E500DB6F110B3E<br>
-Fingerprint: F56721D88C82EE84CACD2DC817E500DB6F110B3E
-</span>
+_For encrypted conversation_:
+
+emmanuel[dot]sleiman[at]revue-ia-sante[dot]fr\
+**PGP Key**\
+**Key ID**: 0x17E500DB6F110B3E\
+**Fingerprint**: F56721D88C82EE84CACD2DC817E500DB6F110B3E\
+
 
