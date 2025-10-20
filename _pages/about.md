@@ -35,9 +35,9 @@ On this website, you’ll find my academic contributions, blog posts on science 
 
 _For encrypted conversation_:
 
-emmanuel[dot]sleiman[at]revue-ia-sante[dot]fr\
-**PGP Key**\
-**Key ID**: 0x17E500DB6F110B3E\
-**Fingerprint**: F56721D88C82EE84CACD2DC817E500DB6F110B3E\
+**PGP Key**   
+**Key ID**: 0x17E500DB6F110B3E  
+**Fingerprint**: 7FC8 56FC FD92 C307 A91E 5C99 7C23 0033 BC9A DE5C    
+[Download asc file](https://keys.openpgp.org/vks/v1/by-fingerprint/7FC856FCFD92C307A91E5C997C230033BC9ADE5C)
 
 
