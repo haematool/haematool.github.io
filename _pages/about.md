@@ -30,7 +30,7 @@ latest_posts:
 Hematology resident with an MSc in Computer Science, working at the intersection of medicine and algorithms for health data.  
 On this website, you’ll find my academic contributions, blog posts on science and computing, talks, teaching materials, and more...
 
-<p>For encrypted conversation:</p>
-<p style="font-family: monospace;">emmanuel[dot]sleiman[at]revue-ia-sante.fr</p>
-<p style="font-family: monospace;">Key ID: 0x17E500DB6F110B3E</p>
-<p style="font-family: monospace;">Fingerprint: F56721D88C82EE84CACD2DC817E500DB6F110B3E</p>
+For encrypted conversation:
+emmanuel[dot]sleiman[at]revue-ia-sante.fr
+Key ID: 0x17E500DB6F110B3E
+Fingerprint: F56721D88C82EE84CACD2DC817E500DB6F110B3E
