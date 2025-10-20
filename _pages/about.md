@@ -30,9 +30,10 @@ latest_posts:
 Resident in Hematology working at the intersection of medicine and algorithms for health data.  
 On this website, you’ll find my academic contributions, blog posts on science and computing, talks, teaching materials, and more...
 
-```text
-emmanuel[dot]sleiman[at]revue-ia-sante[dot]fr
-PGP Key 
-Key ID: 0x17E500DB6F110B3E
+<span style="color:#0ff; font-family: 'Courier New', monospace; font-size: 1.2em;">
+emmanuel[dot]sleiman[at]revue-ia-sante[dot]fr<br>
+PGP Key<br>
+Key ID: 0x17E500DB6F110B3E<br>
 Fingerprint: F56721D88C82EE84CACD2DC817E500DB6F110B3E
-```
+</span>
+
