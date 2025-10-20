@@ -51,6 +51,6 @@ scholar_userid: ViX7XXEAAAAJ&hl # your Google Scholar ID
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
-  logo: assets/img/pubmed.svg
+  logo: assets/img/pubmed-square.svg
   title: PubMed
   url: https://pubmed.ncbi.nlm.nih.gov/?term=Sleiman%20Emmanuel[Author]
