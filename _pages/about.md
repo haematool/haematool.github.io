@@ -35,4 +35,4 @@ emmanuel[dot]sleiman[at]revue-ia-sante[dot]fr
 PGP Key 
 Key ID: 0x17E500DB6F110B3E
 Fingerprint: F56721D88C82EE84CACD2DC817E500DB6F110B3E
-
+```
