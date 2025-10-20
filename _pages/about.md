@@ -33,7 +33,7 @@ Co-founder of [Revue de l'Intelligence Artificielle en Santé](https://revue-ia-
 
 On this website, you’ll find my academic contributions, blog posts on science and computing, talks, teaching materials, and more...
 
-_For encrypted conversation_:
+_For encrypted conversations_:
 
 **PGP Key**   
 **Key ID**: 0x17E500DB6F110B3E  
