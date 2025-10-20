@@ -27,10 +27,12 @@ latest_posts:
   limit: 3
 ---
 
-Hematology resident with an MSc in Computer Science, working at the intersection of medicine and algorithms for health data.  
+Resident in Hematology working at the intersection of medicine and algorithms for health data.  
 On this website, you’ll find my academic contributions, blog posts on science and computing, talks, teaching materials, and more...
 
-For encrypted conversation:
-emmanuel[dot]sleiman[at]revue-ia-sante.fr
+```text
+emmanuel[dot]sleiman[at]revue-ia-sante[dot]fr
+PGP Key 
 Key ID: 0x17E500DB6F110B3E
 Fingerprint: F56721D88C82EE84CACD2DC817E500DB6F110B3E
+
