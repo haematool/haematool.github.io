@@ -12,6 +12,7 @@ module ExternalPosts
     def generate(site)
       if site.config['external_sources'] != nil
         site.config['external_sources'].each do |src|
+          next if src['enabled'] == false
           puts "Fetching external posts from #{src['name']}:"
           if src['rss_url']
             fetch_from_rss(site, src)
