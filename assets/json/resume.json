@@ -28,18 +28,24 @@
       "position": "Senior Clinical Fellow",
       "url": "https://aphp.fr",
       "startDate": "2025-11-03",
-      "endDate":"2026-11-02",
       "summary": "Last year of residency",
-      "highlights": ["Myeloid and lymphoid neoplasms"]
+      "highlights": ["Hematology and Bone Marrow Transplantation departement"]
     }
   ],
   "volunteer": [
     {
-      "organization": "Association des internes d'hématologir",
+      "organization": "Association des internes d'hématologie (AIH)",
       "location": "Paris, France",
       "position": "Secretary, webmaster",
       "url": "https://aihemato.com",
       "startDate": "2025-10-01"
+    },
+    {
+      "organization": "Revue de l'intelligence artificielle en santé",
+      "location": "Dijon, France",
+      "position": "Vice president",
+      "url": "https://revue-ia-sante.fr",
+      "startDate": "2025-03-01"
     }
   ],
   "education": [
@@ -48,8 +54,9 @@
       "location": "Dijon, France",
       "url": "https://www.ube.fr/",
       "area": "Hematology",
-      "studyType": "MD",
-      "endDate": "2024-06-28"
+      "studyType": "MD, Hematology Residency",
+      "startDate": "2020-11-03",
+      "endDate": "2026-11-03"
     },
     {
       "institution": "University of Burgundy Europe, Dijon",
@@ -57,7 +64,8 @@
       "url": "https://www.ube.fr/",
       "area": "Computer Science",
       "studyType": "MSc in Health and Artificial Intelligence",
-      "endDate": "2025-09-02"
+      "startDate": "2024-09-10",
+      "endDate": "2024-06-28"
     }
   ],
   "awards": [
@@ -71,45 +79,31 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "RCP209 – Statistical Learning: Decision Modeling and Deep Learning ",
+      "date": "2023-01-01",
+      "issuer": "National Conservatory of Arts and Crafts",
+      "url": "https://cedric.cnam.fr/vertigo/cours/ml2/index.html",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "Focus on Advanced Gene-Engineered Immune Cells",
+      "date": "2024-09-01",
+      "issuer": "European School of Hematology",
+      "url": "https://www.esh.org/conference/3rd-translational-research-conference-immune-cellular-therapies-focus-on-advanced-gene-engineered-immune-cells/",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Massive Omics Data : Statistical and Bioinformatic Advances",
+      "date": "2024-10-01",
+      "issuer": "INSERM",
+      "url": "https://ateliersinserm.dakini-pco.com/telechargements/ateliers/1712662917.programme.281.pdf",
+      "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Critical Care for Immunocompromised Patients",
+      "date": "2023-01-01",
+      "issuer": "University of Paris Cité",
+      "url": "https://odf.u-paris.fr/fr/offre-de-formation/diplome-d-universite-du-diu-1/sciences-technologies-sante-STS/du-reanimation-des-malades-immunodeprimes-IGXS3TIT.html",
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
@@ -138,16 +132,26 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Computer Science",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "R",
+        "Sk-learn",
+        "pyTorch",
+        "Tensorflow"
+      ]
+    },
+    {
+    "name": "Mathematics",
+    "level": "Master",
+    "icon": "fa-solid fa-hashtag",
+    "keywords": [
+      "Linear Algebra",
+      "Calculus",
+      "Geometry",
+      "Statistical analysis"
       ]
     }
   ],
