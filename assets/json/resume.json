@@ -1,8 +1,8 @@
 {
   "basics": {
     "name": "Emmanuel Sleiman",
-    "label": "MD Hematology",
-    "image": "",
+    "label": "Doctor of Medicine",
+    "image": "assets/img/profile.png",
     "email": "emmanuel_sleiman@etu.ube.fr",
     "phone": "+33(6)18434242",
     "url": "https://haematool.github.io",
@@ -12,13 +12,13 @@
       "postalCode": "75004",
       "city": "Paris",
       "countryCode": "Fr",
-      "region": "California"
+      "region": "Ile-de-France"
     },
     "profiles": [
       {
         "network": "LinkedIn",
         "username": "Emmanuel Sleiman",
-        "url": "https://twitter.com/AlbertEinstein"
+        "url": "https://www.linkedin.com/in/emmanuel-sleiman-0354272b4/"
       }
     ]
   },
@@ -28,7 +28,7 @@
       "position": "Senior clinical fellow",
       "url": "https://aphp.fr",
       "startDate": "2025-11-03",
-      "endDate": "present",
+      "endDate":"2026-11-02",
       "summary": "Last year of residency",
       "highlights": ["Myeloid and lymphoid neoplasms"]
     }
@@ -39,8 +39,7 @@
       "location": "Paris, France",
       "position": "Secretary, webmaster",
       "url": "https://aihemato.com",
-      "startDate": "2025-10-01",
-      "endDate": "present"
+      "startDate": "2025-10-01"
     }
   ],
   "education": [
